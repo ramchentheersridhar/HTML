@@ -1,0 +1,24 @@
+<html>
+<table border="1">
+<tr>
+<th>Asus</th>
+<th>hp</th>
+<th>lenovo</th>
+</tr>
+<tr>
+<td><img src="./download.jpeg" ></td>
+<td><img src="./download.jpeg" ></td>
+<td><img src="./download.jpeg" ></td>
+</tr>
+<tr>
+<td><img src="./download.jpeg" ></td>
+<td><img src="./download.jpeg" ></td>
+<td><img src="./download.jpeg" ></td>
+</tr>
+<tr>
+<td><img src="./download.jpeg" ></td>
+<td><img src="./download.jpeg" ></td>
+<td><img src="./download.jpeg" ></td>
+</tr>
+</table>
+</html>

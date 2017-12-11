@@ -1,0 +1,20 @@
+<html>
+<div>
+<h2>inline 1</h2>
+<p color:'pink' size="5px">
+This is a paragraph about the inline styling for the heading inline 1 in HTML.
+</p>
+</div>
+<div>
+<h2>inline 2</h2>
+<p color:'pink' size="5px">
+This is a paragraph about the inline styling for the heading inline 1 in HTML.
+</p>
+</div>
+<div>
+<h2>inline 3</h2>
+<p color:'pink' size="5px">
+This is a paragraph about the inline styling for the heading inline 1 in HTML.
+</p>
+</div>
+</html>
